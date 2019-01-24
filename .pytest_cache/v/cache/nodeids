@@ -1,0 +1,7 @@
+[
+  "scripts/test_setting.py::TestSetting::()::test_click_search",
+  "scripts/test_setting.py::TestSetting::()::test_input_edit_in_content[1]",
+  "scripts/test_setting.py::TestSetting::()::test_input_edit_in_content[2]",
+  "scripts/test_setting.py::TestSetting::()::test_input_edit_in_content[3]",
+  "scripts/test_setting.py::TestSetting::()::test_click_back"
+]
